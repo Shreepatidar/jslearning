@@ -21,6 +21,19 @@ console.log("best practice")
 let name = "shree"
 let age = 33
 let isLoggedIn = false
+let state;
 
 // number  range upto 2 to the pow 53 
+//bigint
+//string 
+//boolean 
+//null
+//undefined
+//symbol
+
+//object
+
+console.log(typeof null); //object
+console.log(typeof undefined);  //undefined
+console.log(typeof "shree"); //string
 
